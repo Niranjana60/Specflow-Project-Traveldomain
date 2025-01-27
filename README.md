@@ -1,7 +1,7 @@
 This is a simple Automation project which uses Specflow Framework with nunit  for makemytrip.com.
 In this Project page object model design pattern is used along with Page factory.
 Extent report is integrated in one scenario.
-Project is tested in Firefox
+
 
 Feautures tested
 
