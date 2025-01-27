@@ -6,6 +6,6 @@ Extent report is integrated in one scenario.
 Features tested
 
 1.User has to search flights drom Dublin to Delhi to plan his travel.
-user uses a one way trip option
+User uses a one way trip option
 
 2.User is Searching for Hotels in Goa to plan his stay.
