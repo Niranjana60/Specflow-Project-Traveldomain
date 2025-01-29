@@ -1,7 +1,7 @@
 ﻿Feature: Flightbooking
 As a user I want to search flights
 
-@smoke
+
 Scenario: Search flights from Dublin to Delhi
 
 Given I navigate to MakeMyTrip Website
