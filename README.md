@@ -5,7 +5,7 @@ MakeMyTrip is a leading online travel company based in India. It offers a wide r
 This is a simple personal Automation project which uses Specflow Framework with NUnit for makemytrip.com.
 
 In this Project page object model design pattern is used along with Page factory.
-Extent report is integrated in one scenario.
+Extent report is used for reporting.
 
 
 ## Features tested
